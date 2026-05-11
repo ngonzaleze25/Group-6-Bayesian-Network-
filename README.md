@@ -1,5 +1,5 @@
 # Group-6-Bayesian-Network-
-By: Ali, Declan, Ronan, Nicolas 
+By: Ali, Declan, Ronan, Nicolas, Tatiana
 
 Installation
 pip install pgmpy
